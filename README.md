@@ -93,9 +93,9 @@ mvn clean package
 
 ## 3. Running the tests
 Find all project test into `src/test/java` path. Per overall description:
-- `com.smt.controller` contains all integration tests
-- `com.smt.service` contains all unit tests
-- `com.smt.utils` util class for testing propose
+- `com.fc.controller` contains all integration tests
+- `com.fc.service` contains all unit tests
+- `com.fc.utils` util class for testing propose
 ## 4. Deployment
 If the build (the jar file) is ready then the application can be run. Please, use the following command to run the application:
 ```
