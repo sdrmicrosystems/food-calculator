@@ -1,5 +1,12 @@
-# food-calculator
+# food-calculator (WORK IN PROGRESS)
 Food Calculator a management application of consumer products based on nutritional value
+
+https://www.calculator.net/calorie-calculator.html
+https://tools.myfooddata.com/nutrition-facts-database-spreadsheet.php
+https://caloriecontrol.org/healthy-weight-tool-kit/food-calorie-calculator/
+https://www.calorieking.com/us/en/foods/
+https://www.calories.info/calorie-intake-calculator
+https://www.calories.info/food/fruits
 
 ## Summary
 1. Functionalities
